@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\bin\Debug\EmployeeManagement.BO.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\bin\Debug\EmployeeManagement.BO.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\bin\Debug\EmployeeManagement.BO.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BO\obj\Debug\EmployeeManagement.BO.pdb

@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BO.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BO.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BO.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.pdb

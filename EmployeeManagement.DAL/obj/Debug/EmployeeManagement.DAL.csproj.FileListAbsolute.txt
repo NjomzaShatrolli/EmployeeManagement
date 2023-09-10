@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.BO.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.BO.pdb
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.BO.exe.config
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.exe
+C:\Users\HP\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb
